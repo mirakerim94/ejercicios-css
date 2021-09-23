@@ -1,0 +1,33 @@
+h1{
+    font-size: 180px;
+    font-family: 'Allison', cursive;
+}
+.link{
+    color:grey;
+    font-family: 'Allison', cursive;
+    font-size: 50px;
+}
+a{
+    color:lightblue;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.one{
+    font-style: italic;
+}
+.two{
+   font-weight: bolder;
+    
+}
+.three{
+    font-family: italic;
+    font-style: italic;
+}
+.black{
+    font-weight: bolder;
+}
+.ita{
+    font-style: italic;

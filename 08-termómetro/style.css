@@ -1,0 +1,38 @@
+.extreme1{
+    font-weight: bolder;
+    background-color:rgb(148, 148, 248) ;
+}
+.five{
+    background-color: rgb(100, 100, 240);
+}
+.ten{
+    background-color: rgb(68, 68, 200);
+}
+.fifteen{
+    background-color: rgb(45, 45, 211);
+}
+.twenty{
+    background-color: rgb(251, 251, 71);
+}
+.twentyfive{
+    background-color: yellow;
+}
+.thirty{
+    background-color: rgb(255, 255, 0);
+}
+.thirtyfive{
+    background-color: orange;
+}
+.fourty{
+    background-color: rgb(245, 80, 3);
+}
+.fourtyfive{
+    background-color: rgb(251, 67, 0);
+}
+.extreme2{
+    font-weight: bolder;
+    background-color: red;
+}
+ul{
+    text-align: center;
+}

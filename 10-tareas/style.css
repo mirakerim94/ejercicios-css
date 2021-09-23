@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Carattere', cursive;
+    font-size: 6.5em;
+}
+h2{
+    font-family: 'Gideon Roman', cursive;
+    font-size: 2.2em;
+}
+h3{
+    font-family:  'Are You Serious', cursive;
+    font-size: 1.8em;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}

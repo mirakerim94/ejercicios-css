@@ -1,0 +1,23 @@
+h1{
+    width: 800px;
+    font-family: 'Azeret Mono', monospace;
+    font-size: 120px;
+}
+p{
+    font-size: 48px;
+    font-family:'Open Sans Condensed', sans-serif;
+    width: 600px; 
+
+}
+.name{
+    color:blueviolet;
+}
+.job{
+    color:coral;
+}
+.more{
+    color: cyan;
+}
+.hobby{
+    color:darkgreen;
+}

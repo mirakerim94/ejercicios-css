@@ -1,0 +1,21 @@
+h1{font-family: 'Grechen Fuemen', cursive;
+    font-size: 5em;
+}
+h2{
+    font-family:'Josefin Sans', sans-serif; 
+    font-size: 2.5em;
+}
+h3{
+   font-family:  'Gluten', cursive;
+   font-size: 1.8em;
+}
+.fecha{
+    font-size: smaller;
+    color:grey;
+}
+.rojo{
+    color:red;
+}
+.verde{
+    color:green;
+}
